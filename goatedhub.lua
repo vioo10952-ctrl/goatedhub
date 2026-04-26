@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=6029343242948"))("6029343242948")
+loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=8794040954291"))("8794040954291")
